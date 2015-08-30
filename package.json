@@ -1,0 +1,30 @@
+{
+  "name": "gulp-chug-pretty",
+  "version": "0.1.0",
+  "description": "gulp-chug with pretty output",
+  "repository": "https://github.com/saddieeiddas/gulp-chug-pretty.git",
+  "main": "lib/main.js",
+  "author": "saddieeiddas <saddie.eiddas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "extend": "^3.0.0",
+    "gulp-util": "3.0.1",
+    "is_js": "^0.7.4",
+    "lodash": "2.4.1",
+    "resolve": "1.0.0",
+    "through2": "1.1.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "5.1.0",
+    "eslint": "1.2.1",
+    "eslint-config-airbnb": "0.0.7",
+    "eslint-plugin-react": "3.2.3",
+    "babel-eslint": "4.0.10",
+    "del": "1.2.0",
+    "gulp-eslint": "1.0.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-plumber": "^1.0.1",
+    "run-sequence": "1.1.2"
+  }
+}
