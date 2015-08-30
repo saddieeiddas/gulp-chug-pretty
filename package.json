@@ -6,6 +6,11 @@
   "main": "lib/main.js",
   "author": "saddieeiddas <saddie.eiddas@gmail.com>",
   "license": "MIT",
+  "files": [
+    "lib/",
+    "package.json",
+    "README.md"
+  ],
   "dependencies": {
     "extend": "^3.0.0",
     "gulp-util": "3.0.1",
